@@ -9,7 +9,7 @@
 
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_782f3742b6d166ab3104b3eb5d3bd450/airparrot.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/airparrot-3">
+<a href="https://mac-apps-install.github.io/.github/airparrot-3">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
